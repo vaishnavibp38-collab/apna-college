@@ -1,4 +1,4 @@
 # apna-college
 this is simple app
 <br>
-author vaishnavi
+author vaishnavi bp
